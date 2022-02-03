@@ -1,5 +1,3 @@
-.arial {font-family: Arial;}
-
 h1 {
   text-align: center;
 }
@@ -8,9 +6,12 @@ h2 {
   text-align: center;
 }
 
+body{
+  font: Arial;
+}
 
 .container {
-  border-style:  10px solid black;
+  border-style:  solid;
 }
 
 .italic {
