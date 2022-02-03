@@ -1,11 +1,16 @@
 .arial {font-family: Arial;}
 
-head {
+h1 {
   text-align: center;
 }
 
+h2 {
+  text-align: center;
+}
+
+
 .container {
-  border:  10px outset black;
+  border-style:  10px solid black;
 }
 
 .italic {
